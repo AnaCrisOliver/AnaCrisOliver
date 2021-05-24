@@ -26,8 +26,9 @@ I'm a computer science student who just started her adventures in front-end and 
 
 
 # I also want to:
-📱 Learn Reactive Native </br>
+👩‍💻 Learn Kotlin </br>
 👩‍💻 Learn Swift </br>
+📱 Learn Reactive Native </br>
 💡 Engage on new exciting projects </br>
 
 # This is how you can reach me:
