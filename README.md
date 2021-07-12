@@ -20,15 +20,10 @@ I'm a computer science student who just started her adventures in front-end and 
 
 # Currently learning:
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 
 
 # I also want to:
-👩‍💻 Learn Kotlin </br>
-👩‍💻 Learn Swift </br>
-📱 Learn Reactive Native </br>
 💡 Engage on new exciting projects </br>
 
 # This is how you can reach me:
